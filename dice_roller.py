@@ -1,5 +1,6 @@
 
 def main():
+#trying to move to next step
   import random
   dice_rolls = int(input('How many dice do you want to roll?'))
   dice_size = int(input('How many sides are the dice?'))
